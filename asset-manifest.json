@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/masud-rana/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/masud-rana/static/js/main.261f1f0b.chunk.js",
+    "main.js.map": "/masud-rana/static/js/main.261f1f0b.chunk.js.map",
+    "runtime-main.js": "/masud-rana/static/js/runtime-main.cf57d321.js",
+    "runtime-main.js.map": "/masud-rana/static/js/runtime-main.cf57d321.js.map",
+    "static/js/2.1817d2df.chunk.js": "/masud-rana/static/js/2.1817d2df.chunk.js",
+    "static/js/2.1817d2df.chunk.js.map": "/masud-rana/static/js/2.1817d2df.chunk.js.map",
+    "static/js/3.fe9bb09e.chunk.js": "/masud-rana/static/js/3.fe9bb09e.chunk.js",
+    "static/js/3.fe9bb09e.chunk.js.map": "/masud-rana/static/js/3.fe9bb09e.chunk.js.map",
+    "index.html": "/masud-rana/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/masud-rana/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.1817d2df.chunk.js.LICENSE.txt": "/masud-rana/static/js/2.1817d2df.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/masud-rana/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cf57d321.js",
+    "static/js/2.1817d2df.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.261f1f0b.chunk.js"
+  ]
+}
