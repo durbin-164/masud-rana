@@ -1,23 +1,28 @@
 {
   "files": {
-    "main.css": "/masud-rana/static/css/main.9d5b29c0.chunk.css",
-    "main.js": "/masud-rana/static/js/main.261f1f0b.chunk.js",
-    "main.js.map": "/masud-rana/static/js/main.261f1f0b.chunk.js.map",
-    "runtime-main.js": "/masud-rana/static/js/runtime-main.cf57d321.js",
-    "runtime-main.js.map": "/masud-rana/static/js/runtime-main.cf57d321.js.map",
-    "static/js/2.1817d2df.chunk.js": "/masud-rana/static/js/2.1817d2df.chunk.js",
-    "static/js/2.1817d2df.chunk.js.map": "/masud-rana/static/js/2.1817d2df.chunk.js.map",
-    "static/js/3.fe9bb09e.chunk.js": "/masud-rana/static/js/3.fe9bb09e.chunk.js",
-    "static/js/3.fe9bb09e.chunk.js.map": "/masud-rana/static/js/3.fe9bb09e.chunk.js.map",
+    "main.css": "/masud-rana/static/css/main.468dddd4.chunk.css",
+    "main.js": "/masud-rana/static/js/main.2d8f3ae9.chunk.js",
+    "main.js.map": "/masud-rana/static/js/main.2d8f3ae9.chunk.js.map",
+    "runtime-main.js": "/masud-rana/static/js/runtime-main.a2a67ac0.js",
+    "runtime-main.js.map": "/masud-rana/static/js/runtime-main.a2a67ac0.js.map",
+    "static/css/2.21faa3a9.chunk.css": "/masud-rana/static/css/2.21faa3a9.chunk.css",
+    "static/js/2.9028c912.chunk.js": "/masud-rana/static/js/2.9028c912.chunk.js",
+    "static/js/2.9028c912.chunk.js.map": "/masud-rana/static/js/2.9028c912.chunk.js.map",
+    "static/js/3.1b640459.chunk.js": "/masud-rana/static/js/3.1b640459.chunk.js",
+    "static/js/3.1b640459.chunk.js.map": "/masud-rana/static/js/3.1b640459.chunk.js.map",
     "index.html": "/masud-rana/index.html",
-    "static/css/main.9d5b29c0.chunk.css.map": "/masud-rana/static/css/main.9d5b29c0.chunk.css.map",
-    "static/js/2.1817d2df.chunk.js.LICENSE.txt": "/masud-rana/static/js/2.1817d2df.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/masud-rana/static/media/logo.6ce24c58.svg"
+    "static/css/2.21faa3a9.chunk.css.map": "/masud-rana/static/css/2.21faa3a9.chunk.css.map",
+    "static/css/main.468dddd4.chunk.css.map": "/masud-rana/static/css/main.468dddd4.chunk.css.map",
+    "static/js/2.9028c912.chunk.js.LICENSE.txt": "/masud-rana/static/js/2.9028c912.chunk.js.LICENSE.txt",
+    "static/media/bachelorHomeManagement.1db8920c.png": "/masud-rana/static/media/bachelorHomeManagement.1db8920c.png",
+    "static/media/mypic.f7e18535.jpg": "/masud-rana/static/media/mypic.f7e18535.jpg",
+    "static/media/restaurant.87e807d2.png": "/masud-rana/static/media/restaurant.87e807d2.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.cf57d321.js",
-    "static/js/2.1817d2df.chunk.js",
-    "static/css/main.9d5b29c0.chunk.css",
-    "static/js/main.261f1f0b.chunk.js"
+    "static/js/runtime-main.a2a67ac0.js",
+    "static/css/2.21faa3a9.chunk.css",
+    "static/js/2.9028c912.chunk.js",
+    "static/css/main.468dddd4.chunk.css",
+    "static/js/main.2d8f3ae9.chunk.js"
   ]
 }
